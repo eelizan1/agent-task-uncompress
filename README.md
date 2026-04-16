@@ -1,0 +1,2 @@
+# agent-task-2
+This repository contains a coding task for testing automated code generation and PR creation
