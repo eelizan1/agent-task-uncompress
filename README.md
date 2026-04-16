@@ -1,4 +1,4 @@
-# agent-task-2
+# agent-task-uncompress
 This repository contains a coding task for testing automated code generation and PR creation
 
 ## Task 
